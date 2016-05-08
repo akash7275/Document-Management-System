@@ -1,0 +1,113 @@
+﻿
+#top {
+    margin-top: 4%;
+    width: 60%;
+}
+
+#icon {
+    margin-left: 0.1%;
+}
+
+.body {
+    height: 1000px;
+}
+
+.logo {
+    margin-left: 100px;
+    position: relative;
+    float: left;
+}
+
+.btn {
+    margin-left: 1.7%;
+    margin-top: 2.5%;
+}
+
+#gridview {
+    margin-top: 100px;
+}
+
+.header {
+    align-content: left;
+    position: relative;
+    width: 400px;
+    height: 50px;
+    background-color: #d3d3d3;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.subject {
+    position: relative;
+    width: 400px;
+    height: 50px;
+    background-color: #d3d3d3;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.category {
+    width: 150px;
+    height: 30px;
+    background-color: #d3d3d3;
+}
+
+.body {
+    width: 1000px;
+    height: 200px;
+    background-color: white;
+}
+
+.footer {
+    width: 1000px;
+    height: 100px;
+    background-color: #C0C0C0;
+    text-align: right;
+}
+
+gridViewDocuments {
+    margin-left: 50px;
+}
+
+#txtCategoryDetails {
+    width: 100%;
+    height: 600px;
+}
+
+.bodyhover {
+    color: blue;
+}
+
+#file-upload {
+    margin-top: 4%;
+    width: 6%;
+}
+
+#uploadDocument {
+    margin-left: 4%;
+    margin-top: 5%;
+    width: 6%:;
+}
+
+#btnUpload {
+    margin-left: 1.7%;
+    margin-top: 2.5%;
+}
+
+#btnUpload {
+    width: auto;
+    height: auto;
+}
+
+html {
+    font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}
+
+.AdminRegistration {
+   
+    
+    margin-top: 120px;
+    background-color: #EE6E73;
+    padding:10px;
+    
+}
